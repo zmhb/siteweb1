@@ -1,0 +1,21 @@
+div
+{
+	border: 3px red solid;
+	border-radius: 20px;
+}
+
+p,h1
+{
+	font-family: verdana;
+}
+
+li
+{
+	font-size: large;
+	font-family: impact;
+}
+
+body
+{
+	background-color: rgb(192, 130, 13);
+}
